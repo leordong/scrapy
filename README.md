@@ -1,6 +1,6 @@
 # scrapy
 
-Example:
+Example run:
 (venv) vicdongs-MacBook-Pro:spider vicdong$ scrapy crawl amazon
 2020-03-27 20:21:50 [scrapy.utils.log] INFO: Scrapy 2.0.1 started (bot: spider)
 2020-03-27 20:21:50 [scrapy.utils.log] INFO: Versions: lxml 4.5.0.0, libxml2 2.9.10, cssselect 1.1.0, parsel 1.5.2, w3lib 1.21.0, Twisted 20.3.0, Python 3.7.5 (default, Nov  1 2019, 02:16:32) - [Clang 11.0.0 (clang-1100.0.33.8)], pyOpenSSL 19.1.0 (OpenSSL 1.1.1d  10 Sep 2019), cryptography 2.8, Platform Darwin-19.3.0-x86_64-i386-64bit
